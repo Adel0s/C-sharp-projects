@@ -1,0 +1,13 @@
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\bin\Debug\Atestat.exe
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\bin\Debug\Atestat.pdb
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Form1.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Properties.Resources.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.csproj.GenerateResource.Cache
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Game.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.csprojResolveAssemblyReference.cache
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Win.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Lose.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Autor.resources
+D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Descriere.resources

@@ -1,0 +1,14 @@
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\bin\Debug\Turismul in Europa.exe
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\bin\Debug\Turismul in Europa.pdb
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Form1.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Properties.Resources.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.csproj.GenerateResource.Cache
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.exe
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.pdb
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Atractii.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Rezerva.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Despre.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.csprojResolveAssemblyReference.cache
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Rezerva_acum.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Rezervarile_mele.resources
+D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\bin\Debug\Turismul in Europa.exe.config

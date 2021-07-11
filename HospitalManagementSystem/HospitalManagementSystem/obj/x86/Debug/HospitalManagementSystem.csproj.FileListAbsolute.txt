@@ -1,0 +1,14 @@
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.pdb
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Form1.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Properties.Resources.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.csproj.GenerateResource.Cache
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.exe
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.pdb
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Meniu.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.PacientNou.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.InfoPacienti.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Despre.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.Doctori.resources
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\obj\x86\Debug\HospitalManagementSystem.csprojResolveAssemblyReference.cache
+D:\C# Projects\Atestate\HospitalManagementSystem\HospitalManagementSystem\bin\Debug\HospitalManagementSystem.exe.config

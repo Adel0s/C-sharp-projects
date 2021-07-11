@@ -15,3 +15,6 @@ D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDeale
 D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.exe
 D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.pdb
 D:\C# Projects\Atestate\Copie\CarDealership\CarDealership\obj\x86\Debug\CarDealership.csprojResolveAssemblyReference.cache
+D:\GitHubRepos\C-sharp-projects\CarDealership\CarDealership\bin\Debug\CarDealership.exe.config
+D:\GitHubRepos\C-sharp-projects\CarDealership\CarDealership\obj\x86\Debug\CarDealership.exe
+D:\GitHubRepos\C-sharp-projects\CarDealership\CarDealership\obj\x86\Debug\CarDealership.pdb

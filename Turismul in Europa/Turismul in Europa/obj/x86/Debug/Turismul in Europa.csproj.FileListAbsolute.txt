@@ -12,3 +12,6 @@ D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turi
 D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Rezerva_acum.resources
 D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul_in_Europa.Rezervarile_mele.resources
 D:\C# Projects\Atestate\Turismul in Europa\Turismul in Europa\bin\Debug\Turismul in Europa.exe.config
+D:\GitHubRepos\C-sharp-projects\Turismul in Europa\Turismul in Europa\bin\Debug\Turismul in Europa.exe.config
+D:\GitHubRepos\C-sharp-projects\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.exe
+D:\GitHubRepos\C-sharp-projects\Turismul in Europa\Turismul in Europa\obj\x86\Debug\Turismul in Europa.pdb

@@ -11,3 +11,5 @@ D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Win
 D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Lose.resources
 D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Autor.resources
 D:\C# Projects\Atestate\Denisa Pandici\Atestat\Atestat\obj\x86\Debug\Atestat.Descriere.resources
+D:\GitHubRepos\C-sharp-projects\Joc indemanare\Atestat\Atestat\obj\x86\Debug\Atestat.exe
+D:\GitHubRepos\C-sharp-projects\Joc indemanare\Atestat\Atestat\obj\x86\Debug\Atestat.pdb
